@@ -255,4 +255,4 @@
     sudo ufw enable
     ```
 
-10. WSO2 dapat diakses pada `https://<ip_address>:<port-port pada poin 9>`
+10. WSO2 dapat diakses pada `https://<ip_address>:10443`

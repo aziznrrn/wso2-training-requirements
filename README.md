@@ -23,7 +23,7 @@
     export DOCKER_HOST=tcp://<ip_server>:2375
     ```
 
-    Apabila docker belum bisa digunakan, mungkin direstart sebelum docker bisa digunakan, jalankan perintah berikut untuk merestart server
+    Apabila docker belum bisa digunakan, mungkin perlu direstart sebelum docker bisa digunakan, jalankan perintah berikut untuk merestart server
 
     ```bash
     sudo init 6
